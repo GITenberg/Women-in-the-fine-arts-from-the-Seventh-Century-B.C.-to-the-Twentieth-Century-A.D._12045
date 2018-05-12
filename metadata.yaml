@@ -1,7 +1,10 @@
 _repo: Women-in-the-fine-arts-from-the-Seventh-Century-B.C.-to-the-Twentieth-Century-A.D._12045
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Women in the fine arts, from the 7th Century B.C. to the 20th Century
   A.D.
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Waters, Clara Erskine Clement
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '4195'
     url: http://www.gutenberg.org/2009/agents/4195
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12045#Women-in-the-fine-arts-from-the-Seventh-Century-B.C.-to-the-Twentieth-Century-A.D.
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
